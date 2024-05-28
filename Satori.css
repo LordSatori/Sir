@@ -1,0 +1,106 @@
+h1 {	
+color:black;
+-webkit-text-stroke: 1px yellow;
+font-family: Georgia, serif;
+font-size: 55px;
+}
+
+table, th, tr, td {
+	border:2px solid yellow;
+	border-collapse:collapse;
+	color:white;
+		font-family: cursive;
+		background-color:black;
+		
+}
+th {
+	font-size:25px;
+}
+
+body {
+	background-image: url('image/KNY.jpg');
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-attachment: fixed;
+	font-family: system-ui;
+}
+p {
+	color:white;
+	font-size: 20px;
+}
+.satori1 {
+	float: right; padding-right:15px;
+	width: 10%;
+	height:25%;
+	position: fill;
+}
+.satori2 {
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 400px;
+	height: 400px;
+}
+h2 {	
+color:black;
+-webkit-text-stroke: 1px yellow;
+font-family: Georgia, serif;
+font-size: 30px;
+}
+tr, td {
+	font-size:18px;
+
+}
+
+.highlight-word-color1 {
+	color:yellow;
+}
+.highlight-word-color2 {
+	color:purple;
+}
+.highlight-word-color3 {
+	color:red;
+}
+.highlight-word-color4 {
+	color:orange;
+}
+.highlight-word-color5 {
+	color:gray;
+}
+.highlight-word-color6 {
+	color:lime;
+}
+.container1 {
+	position: fit;
+	width:100%;
+	color:white;
+	padding-bottom:65px;
+	padding-top:10px;
+	border:5px solid yellow;
+	border-radius: 30px;
+}
+.font1 {
+	margin-left:5px;
+	position: relative;
+}
+.container2 {
+	position: fit;
+	width:100%;
+	color:white;
+	padding-bottom:5px;
+	padding-top:10px;
+	border:5px solid yellow;
+	border-radius: 30px;
+}
+.font2 {
+	margin-left:5px;
+	margin-right:5px;
+	position:relative;
+}
+.marquee {
+	background-color:black;
+	border: 1px solid yellow;
+	height: 30px;
+	width: 100%;
+	color: white; 
+}
